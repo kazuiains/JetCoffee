@@ -47,7 +47,7 @@ fun Search(modifier: Modifier = Modifier) {
     ) { }
 }
 
-@Preview
+@Preview(showBackground = true)
 @Composable
 private fun SearchPreview() {
     JetCoffeeTheme {
